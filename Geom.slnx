@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Geom/Geom.vcxproj" Id="a2ab040d-8b9c-4d6f-8bac-0f4e3cfb5cca" />
+</Solution>
